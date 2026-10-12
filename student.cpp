@@ -17,7 +17,7 @@ class student
 int main()
 {
 	student S1;
-	S1.name="Tilak Om Bhoite";
+	S1.name="xyz";
 	S1.Roll=2;
 	S1.Mark=89;
 	S1.display();
