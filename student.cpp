@@ -22,4 +22,4 @@ int main()
 	S1.Mark=89;
 	S1.display();
 	return 0;
-}v
+}
